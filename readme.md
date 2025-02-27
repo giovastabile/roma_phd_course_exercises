@@ -14,4 +14,4 @@ This is the exercise material that comes with the part on reduced order modellin
 
 [Tutorial 7](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_5/AS_example.ipynb)
 
-[Example EzyRB tut2](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_1/svd_example.ipynb)
+[Example EzyRB tut2](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_3/ezyrb_tut_2.ipynb)
