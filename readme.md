@@ -17,3 +17,5 @@ This is the exercise material that comes with the part on reduced order modellin
 [Example EzyRB tut2](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_3/ezyrb_tut_2.ipynb)
 
 [Example PINNs](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_5/pinns.ipynb)
+
+[Example RB](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_5/tutorial_thermal_block.ipynb)
