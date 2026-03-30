@@ -1,5 +1,7 @@
 This is the exercise material that comes with the part on reduced order modelling with applications of the PhD course Deep Learning and Scientific Computing
 
+[image example](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_1/image.ipynb)
+
 [Tutorial 1 - pod example](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_1/pod_example.ipynb)
 
 [Tutorial 2 - svd_example](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_1/svd_example.ipynb)
