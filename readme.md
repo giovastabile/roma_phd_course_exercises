@@ -20,4 +20,18 @@ This is the exercise material that comes with the part on reduced order modellin
 
 [Example PINNs - pinns](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_5/pinns.ipynb)
 
-[Example RB](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_5/tutorial_thermal_block.ipynb)
+[Tutorial 1 - RBniCS - Thermal Block](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/01_thermal_block/tutorial_thermal_block.ipynb)
+
+[Tutorial 2 - RBniCS - Linear Elasticity](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/02_elastic_block/tutorial_elastic_block.ipynb)
+
+[Tutorial 3 - RBniCS - Geometrical Parametrization](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/03_hole/tutorial_hole.ipynb)
+
+[Tutorial 5 - RBniCS - EIM](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/05_gaussian/tutorial_gaussian_eim.ipynb)
+
+[Tutorial 5 - RBniCS - DEIM](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/05_gaussian/tutorial_gaussian_deim.ipynb)
+
+[Tutorial 5 - RBniCS - Exact](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/05_gaussian/tutorial_gaussian_exact.ipynb)
+
+[Tutorial 6 - RBniCS - Unsteady Thermal Block RB](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/06_thermal_block_unsteady/tutorial_thermal_block_unsteady_1_rb.ipynb)
+
+[Tutorial 6 - RBniCS - Unsteady Thermal Block POD](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/06_thermal_block_unsteady/tutorial_thermal_block_unsteady_1_pod.ipynb)
