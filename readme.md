@@ -35,3 +35,8 @@ This is the exercise material that comes with the part on reduced order modellin
 [Tutorial 6 - RBniCS - Unsteady Thermal Block RB](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/06_thermal_block_unsteady/tutorial_thermal_block_unsteady_1_rb.ipynb)
 
 [Tutorial 6 - RBniCS - Unsteady Thermal Block POD](https://colab.research.google.com/github/RBniCS/RBniCS/blob/open-in-colab/tutorials/06_thermal_block_unsteady/tutorial_thermal_block_unsteady_1_pod.ipynb)
+
+[PINN tutorial](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_3/pinn_tut.ipynb)
+
+[PINA tutorial](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_3/pina_tut.ipynb)
+
